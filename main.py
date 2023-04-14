@@ -43,8 +43,8 @@ translate_server_code = {
 
 
 def load_server() -> None:
-    connection.set_host("137.66.29.230")
-    connection.set_port(5000)
+    connection.set_host("")
+    connection.set_port()
 
 
 load_server()
