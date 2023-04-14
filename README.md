@@ -1,2 +1,2 @@
-Lười làm một repo hoàn chỉnh quá <
+Lười làm một repo hoàn chỉnh quá <('')
 🐧
